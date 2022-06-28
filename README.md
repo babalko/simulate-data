@@ -1,2 +1,3 @@
-# simulate-data
+# Training Repository
+
 repository for data science workshop
